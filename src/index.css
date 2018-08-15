@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.mw-body {
+  margin: auto;
+  max-width: 1400px;
+}
